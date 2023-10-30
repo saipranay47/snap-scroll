@@ -1,8 +1,4 @@
-# React + Vite
+# CSS Snap Scroll Demo
+This project is a demo of CSS snap scroll, a powerful tool for creating smooth, engaging scrolling experiences. The project uses Tailwind CSS to create a simple scrolling container with paging effects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To learn more about CSS snap scroll, please see my article: CSS Snap Scroll: A Hidden Gem for Creating Smooth, Engaging Scrolling Experiences: [LinkedIn article](https://www.linkedin.com/pulse/css-snap-scroll-hidden-gem-sai-pranay-db4vc/)
