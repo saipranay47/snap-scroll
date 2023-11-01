@@ -5,4 +5,4 @@ To learn more about CSS snap scroll, please see my article: CSS Snap Scroll: A H
 
 ____
 
-<video src="Screen%20Recording%202023-11-01%20at%206.11.39%E2%80%AFPM.mp4" controls title="Title"></video>
+<video src="https://github.com/saipranay47/snap-scroll/raw/main/Screen%20Recording%202023-11-01%20at%206.11.39%E2%80%AFPM.mp4" controls title="demo"></video>
